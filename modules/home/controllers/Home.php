@@ -1,6 +1,6 @@
 <?php
 
-class Components extends Trongate {
+class Home extends Trongate {
 
     function index() {
         $data['view_file'] = 'homepage';
